@@ -1,1 +1,4 @@
-# CSE-DS-1-SEM-2-MT-1-PRACTICAL-
+Aditya Tilak Sharma
+2503215400009
+CSE_DS 1
+MT-1 Practical
